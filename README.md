@@ -22,7 +22,7 @@ afficher les emplacement personnalisé en foction de position actuelle d'utilisa
 ![SSSS](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/78a7c8f7-321a-4e4e-9c4d-879a51d6f953)
 ![BBB](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/2d57be51-d4e7-43df-9f17-f01b958a7500)
 
-Demarrer navigation apres deux clics
+Demarrer navigation apres deux clics ;une assistante vous accompagne tout au long du trajet
 ![DDDD](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/9b47348b-5295-4485-a24b-b6219472039d)
 ![CCC](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/8a62daab-9885-477f-9ac2-98df585fad33)
 
