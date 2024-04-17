@@ -5,8 +5,7 @@
 Notre projet, "Wayfinder", vise à révolutionner l'expérience de navigation en offrant une solution intelligente et personnalisée. 
 En mettant l'accent sur l'immersion et l'adaptabilité, notre objectif principal est d'offrir aux utilisateurs une expérience de navigation inégalée. 
 Dans un monde où les déplacements sont devenus essentiels et où les besoins des utilisateurs évoluent rapidement, Wayfinder se présente comme une réponse innovante et nécessaire.
-![WayFinder]
-(https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/82575b61-9da8-4be0-a3eb-c8e3641477a7)
+![Capture_d_écran_2024-04-16_144303-removebg-preview](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/d39e860e-4438-463f-9c81-23c16e6ff152)
 ## Principales fonctionnalités :
 
 ### 1- Navigation Personnalisée :
