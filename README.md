@@ -23,7 +23,6 @@ Pour assurer la sécurité sur la route, Wayfinder intègre un système de déte
 
 afficher les emplacement personnalisé en foction de position actuelle d'utilisateur
 ![DDDD](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/9b47348b-5295-4485-a24b-b6219472039d)
-
 ![CCC](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/8a62daab-9885-477f-9ac2-98df585fad33)
 
 
