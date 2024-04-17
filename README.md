@@ -5,7 +5,7 @@
 Notre projet, "Wayfinder", vise à révolutionner l'expérience de navigation en offrant une solution intelligente et personnalisée. 
 En mettant l'accent sur l'immersion et l'adaptabilité, notre objectif principal est d'offrir aux utilisateurs une expérience de navigation inégalée. 
 Dans un monde où les déplacements sont devenus essentiels et où les besoins des utilisateurs évoluent rapidement, Wayfinder se présente comme une réponse innovante et nécessaire.
-<p  align="center">
+
 ![Capture_d_écran_2024-04-16_144303-removebg-preview](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/d39e860e-4438-463f-9c81-23c16e6ff152)
 ## Principales fonctionnalités :
 
@@ -18,7 +18,8 @@ Notre application recommande des attractions touristiques, des restaurants et de
 ### 3- Détection de la Somnolence du Conducteur : 
 Pour assurer la sécurité sur la route, Wayfinder intègre un système de détection de la somnolence du conducteur, alertant l'utilisateur en cas de signes de fatigue.
 ## CAPTURE D'ECRAN :
-
-![WhatsApp Image 2024-04-16 à 16 41 08_495ff2d3](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/d8a5ff16-3c83-4f8d-a629-2d5608b2ccfb =250x250)
+<div style="width: 60%; height: 60%">
+ ![WhatsApp Image 2024-04-16 à 16 41 08_495ff2d3](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/d8a5ff16-3c83-4f8d-a629-2d5608b2ccfb =250x250)
+</div>
 afficher les emplacement personnalisé en foction de position actuelle d'utilisateur
 
