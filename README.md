@@ -1,4 +1,12 @@
-# WayFinder_ABOUT
+![WhatsApp Image 2024-04-18 à 11 47 02_05e563aa](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/1edf8adc-06aa-4c2b-b854-0e1d952eb5fa)# WayFinder_ABOUT
+## REALISE PAR:
+khalilhadrouji12@gmail.com
+marwakandil13@gmail.com
+kaoutarber2015@gmail.com
+anaslahmidi123@gmail.com
+mehdi.tarchoun19@gmail.com
+touzani-ham@upf.ac.ma
+
 ![WayFinder](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/82575b61-9da8-4be0-a3eb-c8e3641477a7)
 
 ## Introduction
