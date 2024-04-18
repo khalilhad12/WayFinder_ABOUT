@@ -1,5 +1,6 @@
 # WayFinder_ABOUT
-(https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/1edf8adc-06aa-4c2b-b854-0e1d952eb5fa)
+![WayFinder](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/82575b61-9da8-4be0-a3eb-c8e3641477a7)
+
 ## REALISE PAR:
 khalilhadrouji12@gmail.com                      
 
@@ -13,7 +14,6 @@ mehdi.tarchoun19@gmail.com
 
 touzani-ham@upf.ac.ma
 
-![WayFinder](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/82575b61-9da8-4be0-a3eb-c8e3641477a7)
 
 ## Introduction
 Notre projet, "Wayfinder", vise à révolutionner l'expérience de navigation en offrant une solution intelligente et personnalisée. 
