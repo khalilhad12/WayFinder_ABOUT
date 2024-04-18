@@ -22,7 +22,7 @@ Notre application recommande des attractions touristiques, des restaurants et de
 
 ### 3- Détection de la Somnolence du Conducteur : 
 Pour assurer la sécurité sur la route, Wayfinder intègre un système de détection de la somnolence du conducteur, alertant l'utilisateur en cas de signes de fatigue.
-## CAPTURE D'ECRAN :
+## USER INTERFACE:
 afficher les emplacement personnalisé en foction de position actuelle d'utilisateur:
 ![SSSS](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/78a7c8f7-321a-4e4e-9c4d-879a51d6f953)
 ![BBB](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/2d57be51-d4e7-43df-9f17-f01b958a7500)
