@@ -9,8 +9,9 @@ Dans un monde où les déplacements sont devenus essentiels et où les besoins d
 ![Capture_d_écran_2024-04-16_144303-removebg-preview](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/d39e860e-4438-463f-9c81-23c16e6ff152)
 
 ## VIDEO PRESENTATIF DE WAYFINDER :
-https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/9971269c-40b5-4a02-9f2a-920e93996141
-
+[https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/9971269c-40b5-4a02-9f2a-920e93996141
+](https://github.com/khalilhad12/WayFinder_ABOUT/assets/125512456/6bf154f2-93d4-4d91-a19d-28ad6439b5f0
+)
 ## Principales fonctionnalités :
 
 ### 1- Navigation Personnalisée :
